@@ -1,0 +1,12 @@
+
+This tool is made by Nayan sarma
+
+How to use this tool?
+:-
+1st open a Terminal
+then
+
+
+chmod 777 run.bash
+
+./Lija
