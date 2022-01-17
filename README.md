@@ -1,6 +1,7 @@
 # Lija
 Lija is a Tergeted word list genaration tool for password Cracking
-How to use this tool in Linux  -----
+
+# How to use this tool in Linux  -----
 step 1:  first open terminal or shell
 step 2  :- apt install gcc
 step 3 :- cd Lija
